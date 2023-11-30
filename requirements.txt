@@ -9,6 +9,8 @@ pytorch-lightning==1.9.0
 bitsandbytes==0.41.1
 tensorflow==2.13.0
 safetensors==0.4.0
+altair=4.2.2
+huggingface-hub==0.15.1
 toml==0.10.2
 voluptuous==0.13.1
 xformers==0.0.20
@@ -17,4 +19,5 @@ dadaptation==3.1
 prodigyopt==1.0
 lycoris_lora==1.9.0
 pillow-avif-plugin
+xformers==0.0.22.post4
 .
