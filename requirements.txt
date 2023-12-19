@@ -18,5 +18,4 @@ prodigyopt==1.0
 lycoris_lora
 pillow-avif-plugin
 xformers==0.0.22.post7
-torch
 .
